@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and always learning.\
-🌱 &nbsp;I'm currently working as Mobile Developer.\
+🌱 &nbsp;I'm currently working as Software Engineer.\
 ✉️ &nbsp;You can shoot me an email at ezaworkspace@gmail.com\
 📄 &nbsp;Please have a look at my [Linkedin](https://www.linkedin.com/in/eka-febrina-reza-rizkiyanto/) for more details about me.
 
